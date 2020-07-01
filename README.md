@@ -1,5 +1,6 @@
 # AUTO-STEG
 A simple script for Steganography automation using STEGHIDE.
+
 It can be use to hide sensitive data inside an image file.
 #
 # FEATURES
