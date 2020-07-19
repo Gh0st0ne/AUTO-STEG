@@ -1,3 +1,84 @@
-z="
-";YBz='▒ ▀█';NDz=') {';XFz='| $a';hCz='your';IDz='essf';HFz='nfor';fCz=' " e';tEz='l te';Cz='clea';IBz=' ░░░';lEz='t ag';uBz=' ░░ ';kEz='stan';yEz='1] H';EBz='░   ';wDz='at i';tCz='ef -';eBz='██  ';Wz='██▒▓';yBz=' ░ ░';gz=' ▓██';IEz='of i';ODz='ofil';SFz='if [';NFz='oose';RCz='read';uz='▒ ░ ';dz='  ▓█';CDz='e $e';RFz='ct';BDz=' "Th';EDz='s be';vDz='m th';vCz='cf -';aEz=' cha';KFz='0] E';kFz=']]; ';mz='█  ░';Dz='r';nEz='t fi';PFz='ion:';DBz=' ▒ ░';PDz='e (i';BBz='▓▒ ▒';rEz='atis';wEz='menu';WEz='quen';Az='logo';LFz='xit"';JBz='▒░ ░';Zz='▒██▒';bEz='nged';DFz='2] E';pFz='"00"';OFz=' act';xDz='s ab';UEz='mple';ACz='95m ';JEz='- an';hDz='cted';VFz='= "0';SCz=' -p ';YCz='imag';Iz='92m\';Hz='"\e[';REz='ctiv';EFz='ct d';uDz='ogra';GBz='  ▒ ';hEz='ng r';CFz='e"';UDz='ut f';Xz='  ██';ADz='p 1';FCz='ON C';GFz='3] I';Kz='    ';sDz='raph';cFz='d';bDz='$pas';Tz='▒███';oDz='EGHI';MFz='" Ch';VDz='ile:';tz='█▓  ';oBz='░ ░▒';tDz='y pr';UCz='ter ';Sz=' "';cEz=' thu';kCz=' pas';nBz='▒  ▒';dBz='▒░▒█';ZDz=' -sf';mCz='d: "';rz='█▒▒▒';VBz='██▒ ';NCz='}';gBz='▒░ ▓';KCz='NAVE';wz='██▓▒';lFz='then';yDz='le t';TDz='outp';hz='░ ▒░';AEz='o hi';oCz='steg';aBz='░ ▓█';sCz='ef $';ZEz=' not';HBz='  ▒▒';LCz='NTUR';vEz='"';NEz='he c';bCz='file';WFz='1" |';eCz='xt):';VEz='-fre';jz='░██▄';DCz='BY: ';hBz='██▓ ';tBz='░  ▒';kDz='full';rBz='▒ ▒▓';eDz='e $s';LBz='   ░';cDz='s -x';HCz='LLAS';Ez='echo';QDz='mage';GEz='s ki';dEz='s ma';jFz='"2" ';RBz='█▓▓█';Fz=' ""';WDz=' " x';uCz='cf $';qEz='r st';iCz=' des';gCz='f';HDz='succ';Gz=' -e ';YDz='ract';BCz='  CO';MBz='  ░ ';oEz='rst-';HEz='nds ';eFz=' [[ ';fDz='en e';Vz='█  ▓';KEz='d au';VCz='cove';ABz='█░░▒';CCz='DED ';sBz='▒ ▒ ';jEz=' "si';aCz='" cf';LEz='dio-';mBz='███▒';sz='████';pz='░"';DEz='in"';lBz='▓   ';gFz=' == ';ECz='JAYS';dFz='elif';rCz='ed -';sEz='tica';mEz='ains';bz='▒██ ';Pz='███▓';aDz=' $sf';oFz='"3" ';qBz='███▀';OEz='olor';UBz=' ▓  ';wCz='p $p';pCz='hide';Rz='███ ';MDz='act(';Uz='█▄  ';cBz='██░ ';QBz='░ ▒ ';lDz='y."';Yz='▒ ▓▒';FFz='on i';Oz='▄▄██';ez='█  ▒';YFz='= "1';Nz='██ ▄';vz='░ ██';CBz=' ▒  ';xEz='" [0';gDz='xtra';XBz='   ▀';qDz='s a ';TEz=' "sa';Bz='() {';CEz='ata ';MEz='s. T';nFz='"03"';FEz='riou';hFz='"02"';PCz='d ()';gEz='eddi';yz='  ▓▒';ZBz='▒   ';dCz='d (t';fFz='$act';jCz='ired';XDz=' ext';qFz='"0" ';XCz='le (';mDz='info';WBz='▓▒▓█';ICz=' SAN';fz='██░▒';QCz=' {';xCz='ass';YEz=' are';rFz='p 3';DDz='f ha';oz='▓ ░ ';PBz='░ ░ ';JFz='on"';QFz=' " a';xBz='░  ░';Jz='e[1m';SEz='ly"';iBz='░ ▒▓';cCz=' to ';KDz='."';qz=' ▓█ ';rDz='anog';Qz=' ▒██';iEz='e‐"';RDz='): "';iz='▒██░';JCz=' BUE';kz='▄▄▄█';UFz='ct =';MCz='A"';KBz=' ░  ';AFz='data';pEz='orde';LDz='extr';BEz='de d';XEz='cies';FDz='en h';mFz='act';pBz='▒░▒▓';GCz='ABRI';TCz='" En';lCz='swor';nDz=' "ST';IFz='mati';SBz='   ▄';ZCz='e): ';BFz=' on ';QEz='espe';xz=' ▒▒ ';nz='██░░';uEz='sts.';jDz='cess';OBz='░░ ░';wBz=' ▒░ ';cz=' ▀█▄';yCz='slee';az='▒"';SDz=' sf';fBz='░▄▄▄';kBz=' ░▓█';vBz='  ░░';TFz='[ $a';pDz='DE i';iFz=' || ';lz='█ ▓▓';tFz='fi';FBz='▒░▒░';bFz='en';iDz=' suc';ZFz='" ]]';bBz=' ▒ ▓';WCz='r fi';NBz='▒ ▒░';JDz='ully';PEz='-  r';Lz=' ▄▄▄';dDz='f $x';aFz='; th';GDz='ide ';OCz='embe';nCz='s';fEz=' the';eEz='king';jBz='█  ▄';sFz='exit';EEz=' "va';qCz=' emb';Mz='   █';TBz='   ▒';
-eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Lz$Kz$Mz$Kz$Nz$Oz$Pz$Qz$Rz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Tz$Uz$Mz$Vz$Wz$Xz$Yz$Zz$Xz$az$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$bz$cz$dz$ez$fz$gz$hz$iz$Xz$az$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$jz$kz$lz$mz$nz$gz$oz$bz$Xz$pz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$qz$dz$rz$sz$tz$Qz$uz$vz$wz$pz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$xz$yz$ABz$BBz$CBz$DBz$EBz$hz$FBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$GBz$HBz$IBz$JBz$KBz$LBz$Kz$MBz$NBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$MBz$GBz$LBz$OBz$KBz$KBz$Kz$PBz$QBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Kz$MBz$KBz$KBz$Kz$Kz$Kz$Kz$PBz$Sz$z$Ez$Fz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Xz$sz$Lz$sz$RBz$sz$SBz$sz$Kz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$bz$TBz$UBz$VBz$WBz$XBz$Xz$YBz$ZBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$aBz$Uz$bBz$cBz$dBz$eBz$Qz$fBz$EBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$GBz$Xz$gBz$hBz$iBz$jBz$kBz$Xz$lBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Tz$mBz$nBz$VBz$oBz$sz$pBz$qBz$ZBz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$rBz$sBz$tBz$uBz$vBz$wBz$oBz$TBz$Kz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$oBz$MBz$EBz$KBz$LBz$KBz$xBz$LBz$Kz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$xBz$MBz$LBz$Kz$Kz$KBz$yBz$LBz$Kz$Sz$z$Ez$Gz$Hz$Iz$Jz$Kz$Kz$Kz$Kz$Kz$MBz$Kz$Kz$Kz$KBz$EBz$LBz$Kz$Sz$z$Ez$Gz$Hz$ACz$Kz$Kz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$z$Ez$Fz$z$NCz$z$OCz$PCz$QCz$z$Az$z$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$z$RCz$SCz$TCz$UCz$bCz$cCz$OCz$dCz$eCz$fCz$gCz$z$RCz$SCz$TCz$UCz$hCz$iCz$jCz$kCz$lCz$mCz$kCz$nCz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$z$yCz$ADz$z$Ez$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$z$NCz$z$LDz$MDz$NDz$z$Az$z$RCz$SCz$TCz$UCz$oCz$ODz$PDz$QDz$RDz$SDz$z$RCz$SCz$TCz$UCz$hCz$kCz$lCz$mCz$kCz$nCz$z$RCz$SCz$TCz$UCz$TDz$UDz$VDz$WDz$gCz$z$oCz$pCz$XDz$YDz$ZDz$aDz$SCz$bDz$cDz$dDz$gCz$z$yCz$ADz$z$Ez$BDz$eDz$DDz$EDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$z$NCz$z$mDz$Bz$z$Az$z$Ez$nDz$oDz$pDz$qDz$oCz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$z$Ez$EEz$FEz$GEz$HEz$IEz$QDz$JEz$KEz$LEz$bCz$MEz$NEz$OEz$PEz$QEz$REz$SEz$z$Ez$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$qCz$gEz$hEz$iEz$z$Ez$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$z$NCz$z$wEz$Bz$z$Az$z$Ez$Gz$xEz$yEz$GDz$AFz$BFz$YCz$CFz$z$Ez$Gz$xEz$DFz$gDz$EFz$CEz$FFz$QDz$vEz$z$Ez$Gz$xEz$GFz$HFz$IFz$JFz$z$Ez$Gz$xEz$KFz$LFz$z$Ez$Fz$z$RCz$SCz$MFz$NFz$OFz$PFz$QFz$RFz$z$SFz$TFz$UFz$VFz$WFz$XFz$UFz$YFz$ZFz$aFz$bFz$z$OCz$cFz$z$dFz$eFz$fFz$gFz$hFz$iFz$fFz$gFz$jFz$kFz$lFz$z$LDz$mFz$z$dFz$eFz$fFz$gFz$nFz$iFz$fFz$gFz$oFz$kFz$lFz$z$mDz$z$dFz$eFz$fFz$gFz$pFz$iFz$fFz$gFz$qFz$kFz$lFz$z$Az$z$yCz$rFz$z$Cz$Dz$z$sFz$z$tFz$z$NCz$z$wEz"
+#!/data/data/com.termux/files/usr/bin/bash
+
+logo() {
+clear
+echo ""
+echo -e "\e[92m\e[1m                 ▄▄▄       █    ██ ▄▄▄█████▓ ▒█████  "
+echo -e "\e[92m\e[1m                ▒████▄     ██  ▓██▒▓  ██▒ ▓▒▒██▒  ██▒"
+echo -e "\e[92m\e[1m                ▒██  ▀█▄  ▓██  ▒██░▒ ▓██░ ▒░▒██░  ██▒"
+echo -e "\e[92m\e[1m                ░██▄▄▄▄██ ▓▓█  ░██░░ ▓██▓ ░ ▒██   ██░"
+echo -e "\e[92m\e[1m                 ▓█   ▓██▒▒▒█████▓   ▒██▒ ░ ░ ████▓▒░"
+echo -e "\e[92m\e[1m                 ▒▒   ▓▒█░░▒▓▒ ▒ ▒   ▒ ░░   ░ ▒░▒░▒░ "
+echo -e "\e[92m\e[1m                  ▒   ▒▒ ░░░▒░ ░ ░     ░      ░ ▒ ▒░ "
+echo -e "\e[92m\e[1m                  ░   ▒    ░░░ ░ ░   ░      ░ ░ ░ ▒  "
+echo -e "\e[92m\e[1m                      ░  ░   ░                  ░ ░  "
+echo ""                                    
+echo -e "\e[92m\e[1m                  ██████ ▄▄▄█████▓▓█████   ▄████     "
+echo -e "\e[92m\e[1m                ▒██    ▒ ▓  ██▒ ▓▒▓█   ▀  ██▒ ▀█▒    "
+echo -e "\e[92m\e[1m                ░ ▓██▄   ▒ ▓██░ ▒░▒███   ▒██░▄▄▄░    "
+echo -e "\e[92m\e[1m                  ▒   ██▒░ ▓██▓ ░ ▒▓█  ▄ ░▓█  ██▓    "
+echo -e "\e[92m\e[1m                ▒██████▒▒  ▒██▒ ░ ░▒████▒░▒▓███▀▒    "
+echo -e "\e[92m\e[1m                ▒ ▒▓▒ ▒ ░  ▒ ░░   ░░ ▒░ ░ ░▒   ▒     "
+echo -e "\e[92m\e[1m                ░ ░▒  ░ ░    ░     ░ ░  ░  ░   ░     "
+echo -e "\e[92m\e[1m                ░  ░  ░    ░         ░   ░ ░   ░     "
+echo -e "\e[92m\e[1m                      ░              ░  ░      ░     "
+echo -e "\e[95m           CODED BY: JAYSON CABRILLAS SAN BUENAVENTURA"  
+echo ""                              
+}
+
+# Embed file to image
+embed () {
+    logo
+    read -p " Enter cover file (image): " cf
+    read -p " Enter file to embed (txt): " ef
+    read -p " Enter your desired password: " pass
+    steghide embed -ef $ef -cf $cf -p $pass 
+    sleep 1
+    echo "The $ef has been hide successfully."
+}
+
+# Extract from image
+extract() {
+    logo
+    read -p " Enter stegofile (image): " sf
+    read -p " Enter your password: " pass
+    read -p " Enter output file: " xf
+    steghide extract -sf $sf -p $pass -xf $xf
+    sleep 1
+    echo "The $sf has been extracted successfully."
+}
+
+# Information
+info() {
+    logo
+    echo "STEGHIDE is a steganography program that is able to hide data in"
+    echo "various kinds of image- and audio-files. The color-  respectivly"
+    echo "sample-frequencies are not changed thus making the embedding re‐"
+    echo "sistant against first-order statistical tests."
+}
+
+# Tool menu
+menu() {
+    logo
+    echo -e " [01] Hide data on image"
+    echo -e " [02] Extract data on image"
+    echo -e " [03] Information"
+    echo -e " [00] Exit"
+    echo ""
+    read -p " Choose action: " act
+
+    if [[ $act == "01" || $act == "1" ]]; then
+    embed
+    elif [[ $act == "02" || $act == "2" ]]; then
+    extract
+    elif [[ $act == "03" || $act == "3" ]]; then
+    info
+    elif [[ $act == "00" || $act == "0" ]]; then
+    logo
+    sleep 3
+    clear
+    exit
+    fi
+}
+menu
+
